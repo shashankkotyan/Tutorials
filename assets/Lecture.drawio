@@ -1,9 +1,12 @@
-<mxfile host="Electron" modified="2024-06-15T19:28:47.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="oDcOe1GVf0QDegR7wsZK" version="24.2.5" type="device" pages="2">
+<mxfile host="Electron" modified="2024-06-15T19:34:18.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="UueeDj3FCTu2lmtsDI_J" version="24.2.5" type="device" pages="2">
   <diagram name="Perceptron" id="r-9WZbuj8T47tdGgC2nj">
-    <mxGraphModel dx="683" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="956" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0ZhShGxm8KNflRpx0BDU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="690" height="220" as="geometry" />
+        </mxCell>
         <mxCell id="Z4WF1ogDrh1AhRm3Ekj2-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="80" y="360" width="40" height="40" as="geometry" />
         </mxCell>
@@ -117,10 +120,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PKIJlBQuqZQ_qbm6TV1u" name="ANN">
-    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="637" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ACs-hlLUOyP7rcckyD53-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="180" width="380" height="290" as="geometry" />
+        </mxCell>
         <mxCell id="Gax_tU7gUXnnpnAvfep0-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Lato;fontSource=https://fonts.googleapis.com/css?family=Lato;fillColor=#dae8fc;strokeColor=#6C8EBF;" parent="1" vertex="1">
           <mxGeometry x="160" y="220" width="40" height="40" as="geometry" />
         </mxCell>
